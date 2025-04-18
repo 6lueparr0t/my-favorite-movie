@@ -48,7 +48,7 @@
 ### 1. 프로젝트 디렉토리 이동
 
  ```bash
- cd Grip_React_Daehyun
+ cd my-favorite-movie
  ```
 
 ### 2. 종속성 설치
